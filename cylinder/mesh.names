@@ -1,0 +1,6 @@
+! ----- names for bodies -----
+$ body = 1
+! ----- names for boundaries -----
+$ bottom = 1
+$ top = 2
+$ side = 3
